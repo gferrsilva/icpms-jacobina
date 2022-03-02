@@ -26,4 +26,4 @@ Repository of the manuscript "Machine learning analysis of mineral chemistry in 
 
 # License
 
-The source code for Qmin is licensed under the GNU-3 License, see [LICENSE](LICENSE)
+The source code for Qmin is licensed under the GPL-3 License, see [LICENSE](LICENSE)
