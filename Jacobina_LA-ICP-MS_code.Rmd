@@ -9,7 +9,7 @@ This is the source code used in the manuscript:
 
 'Machine learning analysis of mineral chemistry in pyrite grains from the Jacobina gold deposits, São Francisco Craton, Brazil: geochemical patterns and implications to mineral exploration'
 
-authored by: "Guilherme Ferreira"
+authored by: "Guilherme Ferreira" (guilherme.ferreira@cprm.gov.br)
 date: "02/03/2022"
 
 The following code was written in R (4.1.2)
